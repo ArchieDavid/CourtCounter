@@ -23,7 +23,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="Team A"
+                android:text="@string/txtTeamA"
                 android:textColor="#616161"
                 android:textSize="16sp" />
 
@@ -45,7 +45,7 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="threePointTeamA"
-                android:text="+ 3 Points" />
+                android:text="@string/textThreePoints" />
 
 
             <Button
@@ -55,7 +55,7 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="twoPointTeamA"
-                android:text="+ 2 Points" />
+                android:text="@string/textTwoPoints" />
 
 
             <Button
@@ -65,7 +65,7 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="onePointTeamA"
-                android:text="Free Throw" />
+                android:text="@string/txtFreeThrow"/>
 
 
         </LinearLayout>
@@ -91,7 +91,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="Team B"
+                android:text="@string/txtTeamB"
                 android:textColor="#616161"
                 android:textSize="16sp" />
 
@@ -113,7 +113,7 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="threePointTeamB"
-                android:text="+ 3 Points" />
+                android:text="@string/textThreePoints" />
 
 
             <Button
@@ -123,7 +123,7 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="twoPointTeamB"
-                android:text="+ 2 Points" />
+                android:text="@string/textTwoPoints" />
 
 
             <Button
@@ -133,7 +133,7 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="onePointTeamB"
-                android:text="Free Throw" />
+                android:text="@string/txtFreeThrow" />
 
 
         </LinearLayout>

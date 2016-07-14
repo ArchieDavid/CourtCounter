@@ -2,4 +2,12 @@
     <string name="app_name">Court Counter</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="txtTeamB">Team B</string>
+    <string name="txtTeamA">Team A</string>
+    <string name="txtFreeThrow">Free Throw</string>
+
+    <string name="textThreePoints">+ 3 Points</string>
+    <string name="textTwoPoints">+ 2 Points</string>
+    <string name="textOnePoint">+ 1 Points</string>
 </resources>
