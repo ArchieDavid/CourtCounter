@@ -7,7 +7,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="horizontal">
 
         <LinearLayout
@@ -25,7 +25,7 @@
                 android:padding="16dp"
                 android:text="@string/txtTeamA"
                 android:textColor="#616161"
-                android:textSize="16sp" />
+                android:textSize="@dimen/txtSize_small" />
 
             <TextView
                 android:id="@+id/team_a_score"
@@ -74,7 +74,7 @@
         <View
             android:layout_width="1dp"
             android:layout_height="fill_parent"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="@dimen/layout_margin_top"
             android:background="#637a91"></View>
 
 
