@@ -1,0 +1,2 @@
+# Description
+This app is created as part of Udacity Android Basics Nanodegree. It keeps track of scores between two teams playing basketball game. The main goal for this app is to learn how to add buttons, update views, and define the scope of variables. For more information please read the full project description [here](https://github.com/udacity/Project-Descriptions-for-Review/blob/master/Beginner%20Android/Court_Counter.md).
